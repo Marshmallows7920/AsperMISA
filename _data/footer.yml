@@ -1,13 +1,13 @@
 # This file allows us to add or delete navigation links in the footer bar
 left_links:
 - name: About
-  link: https://aspermisa.github.io/AsperMISA/#learn-more
+  link: /about/
 - name: MIS
   link: /mis/
 - name: Events
   link: /events/
 - name: Biztek 2020
-  link: /biztek/
+  link: https://biztek2020.com
 - name: Team
   link: /team/
 - name: Contact
